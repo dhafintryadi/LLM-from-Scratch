@@ -1,0 +1,4 @@
+Every effort moves you forward.
+Every question teaches the model another pattern.
+Small language models help us understand attention, tokens, and training loops.
+Build the system step by step, then test each part.
